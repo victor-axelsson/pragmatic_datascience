@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Matrix_multiplication
+http://blog.studygate.com/index.php/2017/11/09/matrix-multiplication-how-to/
+https://www.youtube.com/watch?v=aKhhYguY0DQ
+
+(4081, 28) x (28,1) = (4081, 1)
+

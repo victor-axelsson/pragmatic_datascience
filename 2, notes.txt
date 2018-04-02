@@ -1,0 +1,15 @@
+Pragmatic data science
+
+Use case
+
+https://catalog.data.gov/dataset/local-weather-archive
+https://data.townofcary.org/api/v2/catalog/datasets/rdu-weather-history/exports/csv
+http://www.onlyinyourstate.com/north-carolina/nc-ice-cream-road-trip/
+https://en.wikipedia.org/wiki/Fahrenheit
+
+Gunnar
+	- Poor swedish imigrand within the ice-cream business
+	- Swedish weather is bad for business
+	- Moved to the promised land of North Carolina
+	- Business flucuates a lot, how many people should he have to help him out in the shop?
+

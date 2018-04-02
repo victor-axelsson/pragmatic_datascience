@@ -1,0 +1,45 @@
+Pragmatic data science
+
+- Introduction
+	- Prerequisites
+		- Python
+		- Javascript
+		- Math
+			- Arithmetic
+				- plus
+				- minus
+				- division
+				- multiplication
+			- Reading academic papers will help but not nessesary
+			- Linear algebra
+				- We will go though what we need
+	- Why
+		- ML is becomming bigger
+		- Python is on the rise
+			- Have really good libraries for datascience
+			- https://stackoverflow.blog/2017/09/06/incredible-growth-python/
+		- Get an understanding of ML and Datascience
+		- Get a better salary
+		- Get an intuition of linear algebra and how it can be used 
+	- About the layout of this tutorial
+		- Not fully set
+		- You will have a lot to say about the outline
+		- Feedback from you is very valuable
+			- What do you want to see
+			- Is something unclear
+			- How can I explain better
+		- Hands on, not too theoretical
+	- Some covered content (may change)
+		- Linear combinations
+		- Data normalization
+		- Matrix multiplications
+		- Move on to machine learning concepts
+			- Pretty open
+			- Might start with linear regression
+	
+	- What enables me to do this?
+		- Your subsription
+		- Your feedback
+
+
+

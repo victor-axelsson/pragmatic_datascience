@@ -1,0 +1,2 @@
+Best avg F 		= 91,05
+Worst avg F 	= 20,55
