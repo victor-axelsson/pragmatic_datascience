@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=aKhhYguY0DQ
 
 (4081, 28) x (28,1) = (4081, 1)
 
+
